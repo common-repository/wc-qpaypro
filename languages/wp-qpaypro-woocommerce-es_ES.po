@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QPayPro Card - WooCommerce Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-18 04:39+0000\n"
+"PO-Revision-Date: 2024-05-19 20:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:116
+msgid "3 or 4 digits"
+msgstr "3 o 4 digitos"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:161
+msgid "Activar pasarela de pago"
+msgstr "Activar pasarela de pagos."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:10
+msgid "Allows you to receive online payments through QPayPro. "
+msgstr "Ter permite recibir pagos en linea a traves de QPayPro."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:188
+msgid "API Secret (x_api_secret)"
+msgstr "API Secret (x_api_secret)"
+
+#: admin/wp-filters.php:13
+msgid "Configure"
+msgstr "Configurar"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:274
+msgid "Credit card CVV is required."
+msgstr "El numero CVV de la tarjeta es obligatorio."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:270
+#| msgid "Credit card expiry month is required."
+msgid "Credit card expiry date is required."
+msgstr "La fecha de expiración es obligatorio."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:262
+msgid "Credit Card holder name is required."
+msgstr "El nombre de la Tarjeta de Credito es obligatorio."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:94
+msgid "Credit Card Holder's name"
+msgstr "Nombre en Tarjeta de Credito"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:99
+msgid "Credit Card Number"
+msgstr "Numero de Tarjeta de Credito"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:266
+msgid "Credit card number is required."
+msgstr "El numero de tarjeta de Credito es obligatorio."
+
+#. Author of the plugin
+msgid "digitallabs, XicoOfficial"
+msgstr "digitallabs, XicoOfficial"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:159
+msgid "Habilitar/Deshabilitar"
+msgstr "Habilitar/Deshabilitar"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://digitallabs.agency"
+msgstr "https://digitallabs.agency"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:82
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:83
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:84
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:85
+msgid "installments"
+msgstr "cuotas"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:207
+msgid "Live"
+msgstr "Live"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:195
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:202
+msgid "Mode"
+msgstr "Modo"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:204
+msgid "Modo QPayPro Live o Sandbox."
+msgstr "Mode QPayPro Live o Sandbox."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:217
+msgid "No"
+msgstr "No"
+
+#: admin/helpers/class-qpaypro-helper.php:112
+#: admin/helpers/class-qpaypro-helper.php:113
+msgid "Payment failed. "
+msgstr "Pago fallido."
+
+#. Name of the plugin
+msgid "Payment Gateway for QPayPro on WooCommerce"
+msgstr "Pasarela de Pagos para QPayPro en WooCommerce"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:180
+msgid "Private Key (x_private_key)"
+msgstr "Private Key (x_private_key)"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:172
+msgid "Public Key (x_login)"
+msgstr "Public Key (x_login)"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:9
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:167
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:168
+msgid "QPayPro"
+msgstr "QPayPro"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:190
+msgid "QPayPro API Secret."
+msgstr "API Secret."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:197
+msgid "QPayPro Merchant ID."
+msgstr "Merchant ID."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:350
+msgid "QPayPro payment completed."
+msgstr "Pago de QPayPro completado."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:223
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:224
+msgid "QPayPro Payment Gateway"
+msgstr "Pasarela de Pagos de QPayPro"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:182
+msgid "QPayPro Private Key."
+msgstr "Private Key."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:174
+msgid "QPayPro Public Key."
+msgstr "Public Key."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:213
+msgid "QPayPro Visacuotas."
+msgstr "Visacuotas."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:206
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: admin/helpers/class-qpaypro-helper.php:101
+msgid "Successful payment."
+msgstr "Pago realizado exitosamente."
+
+#: admin/helpers/class-qpaypro-helper.php:100
+msgid "Successful payment. "
+msgstr "Pago realizado exitosamente."
+
+#: admin/helpers/class-qpaypro-helper.php:129
+msgid ""
+"The connection with the payment gateway service could not be completed. "
+"Please try again later."
+msgstr ""
+"La conexion con el procesador de pagos no se ha completado. Por favor "
+"intente nuevamente en un momento."
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:165
+msgid "Titulo"
+msgstr "Titulo"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:81
+msgid "Up front"
+msgstr "Al contado"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:211
+msgid "Visa Cuotas"
+msgstr "Visa Cuotas"
+
+#. Description of the plugin
+msgid "WooCommerce custom payment gateway integration with QPayPro."
+msgstr ""
+"Integración personalizada de la pasarela de pagos de WooCommerce con QPayPro"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:216
+msgid "Yes"
+msgstr "Si"
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:43
+msgid ""
+"You are using the <strong>QPayPro for WooCommerce</strong> plugin developed "
+"by <a href=\"https://digitallabs.agency\" target=\"_blank\">Digital Labs</a>."
+" If you need assistance configuring the plugin, help with your eCommerce "
+"site or just want to say hi, feel free to contact us <a href=\"https:"
+"//digitallabs.agency/contacto\" target=\"_blank\">here</a>. We will be happy "
+"to work with you."
+msgstr ""
+"Estas utilizando el plugin <strong>QPayPro para WooCommerce</strong> "
+"desarrollado por <a href=\"https://digitallabs.agency\" target=\"_blank\">"
+"Digital Labs</a>. Si necesitas asistencia configurando el plugin, ayuda con "
+"tu sitio eCommerce o sipmlemente pasar a saludar, puedes contactarnos <a "
+"href=\"https://digitallabs.agency/contacto\" target=\"_blank\">aqui</a>. "
+"Estaremos felices de trabajar contigo."
